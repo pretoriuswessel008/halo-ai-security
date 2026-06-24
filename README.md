@@ -42,12 +42,23 @@ Planned Tech Stack
 /tests
 /docs
 
+## Threat Model (High-Level)
+
+- Prompt injection attacks against AI classification
+- Adversarial text manipulation
+- Privacy leakage risks involving sensitive user data
+- False positive/negative risk in safety classification
+
 Security Principles
 
 * Privacy by design
 * Data minimisation
 * Zero-trust inspired validation layers
 * Secure-by-default architecture approach
+
+## Architecture (Coming Soon)
+
+System design diagram will be added as development progresses.
 
 Note
 

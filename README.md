@@ -1,29 +1,20 @@
-Halo – AI Child Safety Security System
+# Halo – AI Child Safety Security System
 
-Overview
+## AI Cybersecurity Engineering Project (Active Development)
 
-Halo is an AI-assisted security research project focused on detecting and mitigating online risks such as digital grooming, cyberbullying, and harmful interactions in real time.
+AI-driven security system focused on detecting digital grooming, cyberbullying, and online harm patterns using privacy-first design principles.
 
-The system is designed as a privacy-first security layer that applies modern AI techniques alongside established cybersecurity principles.
+**Core Focus:** AI Threat Detection | Security Engineering | Privacy-by-Design | Adversarial AI Testing
 
-Status
+Why This Matters
+Built from real-world exposure to IoT and infrastructure security risks over 15+ years in technical operations.
 
-Active development (early-stage prototype)
+Core Focus
+- AI Security & Threat Detection
+- Zero Trust Architecture Design
+- Privacy & Data Protection (GDPR / POPIA aligned)
+- Adversarial AI Testing (Prompt Injection / Abuse Scenarios)
 
-Objectives
-
-* Detect suspicious or harmful communication patterns
-* Apply AI-assisted content classification for safety risks
-* Explore privacy-preserving monitoring techniques
-* Align with GDPR / POPIA principles for sensitive data handling
-* Research adversarial resistance against prompt injection and model manipulation
-
-Core Security Focus
-
-* AI threat detection models
-* Secure data handling and privacy-by-design architecture
-* Adversarial testing (prompt injection, jailbreak attempts)
-* Risk-based content analysis pipelines
 
 Planned Tech Stack
 

@@ -32,6 +32,16 @@ Planned Tech Stack
 * Security-focused data pipelines
 * REST API backend (future phase)
 
+ ## Project Structure (Planned)
+
+/architecture
+/threat-model
+/data-pipeline
+/ai-models
+/api
+/tests
+/docs
+
 Security Principles
 
 * Privacy by design
